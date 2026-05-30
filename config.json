@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authfender",
+        "uuid": 1845116,
+        "checksum": "7jp2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
